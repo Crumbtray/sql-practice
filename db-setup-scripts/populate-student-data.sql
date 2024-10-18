@@ -1,0 +1,120 @@
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Lionel","Daphne","1979-11-18"),
+  ("Aidan","Tiger","1984-12-03"),
+  ("Maile","Ginger","1990-07-08"),
+  ("Leonard","Larissa","1983-01-24"),
+  ("Delilah","Ramona","2000-07-25"),
+  ("Jillian","Maris","1994-01-05"),
+  ("Ian","Mallory","1998-05-04"),
+  ("Vivien","Faith","1974-01-15"),
+  ("Alexis","Velma","2005-08-21"),
+  ("Owen","Clark","1973-10-16");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Jack","Nichole","1987-05-03"),
+  ("Quintessa","Avye","1973-08-05"),
+  ("Seth","Savannah","1990-06-10"),
+  ("Harrison","Buffy","1992-05-05"),
+  ("Haviva","Sean","1981-09-26"),
+  ("Gil","Jacqueline","1981-12-23"),
+  ("Amal","Dorothy","2006-08-26"),
+  ("Lance","Philip","2003-06-28"),
+  ("Scott","Ivory","1988-05-25"),
+  ("Connor","Sylvia","1971-11-05");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("William","Buffy","2001-09-13"),
+  ("Dominic","Cooper","1998-03-23"),
+  ("Ciara","Ferdinand","1989-04-28"),
+  ("Amelia","Kenneth","1992-06-27"),
+  ("Alexander","Herman","1970-11-07"),
+  ("Cole","Xyla","1975-03-27"),
+  ("Alden","Ifeoma","1995-08-17"),
+  ("Benedict","Timothy","1994-07-25"),
+  ("Dale","Adrian","1994-08-02"),
+  ("Indira","Bernard","1973-03-03");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Palmer","Hilary","1992-10-18"),
+  ("Laurel","Adrienne","1994-04-20"),
+  ("Hanna","Cecilia","1992-11-05"),
+  ("Jasper","Ivan","1980-03-15"),
+  ("Thor","Angelica","1978-09-29"),
+  ("Perry","Leilani","1982-09-02"),
+  ("Mariam","Jameson","2005-12-12"),
+  ("Raymond","Oleg","2000-10-17"),
+  ("Elvis","Brett","1979-09-10"),
+  ("Keelie","Karina","2002-07-12");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Brandon","Scott","1990-09-09"),
+  ("Barrett","Castor","1995-10-02"),
+  ("Rhonda","Katell","1991-06-10"),
+  ("Quentin","Cadman","1972-12-08"),
+  ("Justin","Chase","1971-09-13"),
+  ("Maxine","Gannon","2001-05-14"),
+  ("Odette","Brynne","1985-03-30"),
+  ("Rooney","Lester","2002-03-10"),
+  ("Keane","Vera","1996-09-02"),
+  ("Caryn","Cailin","2001-11-22");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Hayfa","Elijah","1979-05-19"),
+  ("Gay","Sydney","1977-03-17"),
+  ("Lee","Dara","1972-09-19"),
+  ("Janna","Jerome","1985-04-28"),
+  ("Reuben","Conan","2004-05-09"),
+  ("Paloma","Ferris","1978-05-16"),
+  ("Quail","Hammett","1986-01-17"),
+  ("Cathleen","Clare","2002-11-23"),
+  ("Jael","Abel","1989-03-01"),
+  ("Garrison","Leslie","2005-08-14");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Meredith","John","1996-02-06"),
+  ("Hunter","Hermione","1993-08-16"),
+  ("Jenna","Elaine","1996-04-10"),
+  ("Raphael","Britanney","1976-09-15"),
+  ("Malik","Jada","2002-05-03"),
+  ("Indigo","Iliana","1986-12-26"),
+  ("Martena","Ethan","2001-05-28"),
+  ("Ian","Tara","1990-08-17"),
+  ("Matthew","Jesse","2005-06-21"),
+  ("Marvin","Clare","1979-10-27");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Brody","Colette","1985-09-01"),
+  ("Jolie","Geoffrey","1981-05-30"),
+  ("Owen","Nicole","1982-06-17"),
+  ("Emerson","Sharon","1999-08-04"),
+  ("Marvin","Hasad","1999-06-21"),
+  ("Kato","Quentin","1997-09-12"),
+  ("Dieter","Kelly","2003-01-02"),
+  ("Aladdin","Kiayada","1996-04-23"),
+  ("Kay","Mikayla","1998-08-03"),
+  ("Linda","Vielka","1992-11-11");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Tatum","Idona","1990-04-12"),
+  ("Xander","Adena","1971-10-30"),
+  ("Hayden","Hunter","1993-02-20"),
+  ("Sophia","Levi","1975-07-17"),
+  ("Rashad","Colin","1981-03-10"),
+  ("Pamela","Ali","1989-12-21"),
+  ("Deanna","Caldwell","1979-08-19"),
+  ("Edan","Kristen","1971-10-24"),
+  ("Ruby","Eliana","1994-10-10"),
+  ("Deanna","Veronica","2003-06-23");
+INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
+VALUES
+  ("Lucian","Hyatt","1975-04-04"),
+  ("Lane","William","1986-10-25"),
+  ("Josiah","Hedda","1972-02-13"),
+  ("Paki","Julie","1998-10-07"),
+  ("Ayanna","Fuller","1998-06-16"),
+  ("Elmo","James","1974-08-24"),
+  ("Adele","Irma","2004-12-08"),
+  ("Bert","Cheryl","1994-12-11"),
+  ("Blossom","Madaline","1972-04-07"),
+  ("Alexa","Buffy","1979-04-18");
