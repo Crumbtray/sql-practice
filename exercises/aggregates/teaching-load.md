@@ -1,4 +1,5 @@
 # Teaching Load
+Difficulty: 2/5
 
 ### Problem
 Your school wants to know how many courses have been taught by each instructor by the end of the Fall 2024 semester.

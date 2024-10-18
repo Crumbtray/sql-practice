@@ -1,4 +1,5 @@
 # Course Sign Ups
+Difficulty: 1/5
 
 ### Problem
 School administrators want to know how many students signed up for each course.

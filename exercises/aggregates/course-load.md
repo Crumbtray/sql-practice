@@ -1,4 +1,5 @@
 # Course Load
+Difficulty: 2/5
 
 ### Problem
 Your school wants to know the students who signed up for more than one course.

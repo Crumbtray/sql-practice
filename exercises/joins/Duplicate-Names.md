@@ -1,4 +1,5 @@
 # Duplicate First Names
+Difficulty: 2/5
 
 ### Problem
 You are super curious if any of the students share the first names of the instructors.

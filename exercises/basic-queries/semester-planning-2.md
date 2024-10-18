@@ -1,4 +1,5 @@
 # Semester Planning
+Difficulty: 1/5
 
 ### Problem
 While [preparing the list of courses for fall semester 2024](./semester-planning.md), a school administrator panicked because she may have mistakenly added a course that spanned two semesters.

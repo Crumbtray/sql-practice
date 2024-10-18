@@ -1,4 +1,5 @@
 # Semester Planning
+Difficulty: 1/5
 
 ### Problem
 The school wants a list of its course offering for fall semester 2024, which starts September 1st, 2024 and ends before December 31, 2024.

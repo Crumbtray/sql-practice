@@ -1,4 +1,5 @@
 # Department Names
+Difficulty: 3/5
 
 ### Problem
 A school administrator is upset that there is no way to indicate which department is responsible for a particular course.

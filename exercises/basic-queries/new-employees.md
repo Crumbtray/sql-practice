@@ -1,4 +1,5 @@
 # New Employees
+Difficulty: 1/5
 
 ### Problem
 The school wants to host its first staff Christmas party since the pandemic.

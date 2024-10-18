@@ -1,4 +1,5 @@
 # Long Course Names
+Difficulty: 1/5
 
 ### Problem
 The school administrator in charge of designing the course listing says the font she chose means any course name longer than 30 characters will cause problems for her layout.

@@ -1,4 +1,5 @@
 # See You Again!
+Difficulty: 5/5
 
 ### Problem
 Being such a small school, inevitably students signing up for more courses will see the same instructors again.

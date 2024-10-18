@@ -1,4 +1,5 @@
 # Guardianship Forms
+Difficulty: 2/5
 
 ### Problem
 Students under the age of 21 need to be sent a guardian permission form.

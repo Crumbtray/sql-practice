@@ -1,4 +1,5 @@
 # Education Assistants
+Difficulty: 2/5
 
 ### Problem
 Instructors have one year of probation before they are hired as fulltime staff, and the courses they teach require extra scrutiny from school administration to ensure standards are met.
