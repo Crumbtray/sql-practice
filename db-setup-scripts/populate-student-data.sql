@@ -3,13 +3,13 @@ VALUES
   ("Lionel","Daphne","1979-11-18"),
   ("Aidan","Tiger","1984-12-03"),
   ("Maile","Ginger","1990-07-08"),
-  ("Leonard","Larissa","1983-01-24"),
-  ("Delilah","Ramona","2000-07-25"),
+  ("Ethan","Larissa","1983-01-24"),
+  ("Delilah","Iliana","2000-07-25"),
   ("Jillian","Maris","1994-01-05"),
   ("Ian","Mallory","1998-05-04"),
   ("Vivien","Faith","1974-01-15"),
-  ("Alexis","Velma","2005-08-21"),
-  ("Owen","Clark","1973-10-16");
+  ("Alexis","Fuller","2005-08-21"),
+  ("Owen","Mariam","1973-10-16");
 INSERT INTO `Students` (`FirstName`,`LastName`,`DateOfBirth`)
 VALUES
   ("Jack","Nichole","1987-05-03"),
