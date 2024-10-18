@@ -1,4 +1,4 @@
-# Chargibg Double?
+# Charging Double?
 Difficulty: 2/5
 
 ### Problem
