@@ -13,6 +13,7 @@ Here are the techniques, ordered from simple to complex:
 |Aggregate Queries| Problems that can be solved using the `GROUP BY` and aggregate functions like `AVG`, `SUM`, `COUNT`, etc.|[Aggregate Queries](./aggregates/)|
 |Nested Queries| Problems that can be solved using nested queries (query within a query). |[Nested Queries](./nested-queries/)|
 |Joins|Problems that require joins to be solved.|[Joins](./joins/)
+|Putting It All Together| Problems that use a combination of the above techniques to arrive at an answer.|[Putting It All Together](./putting-it-all-together/)|
 
 ## Exercises
 
