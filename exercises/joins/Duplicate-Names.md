@@ -2,6 +2,7 @@
 
 ### Problem
 You are super curious if any of the students share the first names of the instructors.
+
 Find the irst name of the instructors that are duplicated.
 
 ### Solution

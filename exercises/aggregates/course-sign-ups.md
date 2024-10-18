@@ -2,6 +2,7 @@
 
 ### Problem
 School administrators want to know how many students signed up for each course.
+
 Return a list of Course IDs and the number of students registered for that course.
 
 ### Solution
