@@ -1,4 +1,4 @@
-# Semester Planning
+# Semester Planning 2
 Difficulty: 1/5
 
 ### Problem
