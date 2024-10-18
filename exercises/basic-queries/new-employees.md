@@ -11,7 +11,7 @@ The school is asking you to get the InstructorId, First Name, and Last Name, of 
   ```SQL
 SELECT InstructorId, FirstName, LastName
 FROM Instructor
-WHERE EmploymentDate > '2023-12-23'
+WHERE EmploymentDate > '2019-12-23'
   ```
   
 </details>
