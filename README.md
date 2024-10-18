@@ -53,4 +53,3 @@ The CourseRegistration table has 3 columns:
 Once you have completed the [Database Setup Instructions](./README.md#database-setup-instructions), you can optionally play around and query the database to get a sense of the data model.
 
 Once you are ready to do the exercises, head to the [Exercises Folder.](./exercises/README.md)
-
